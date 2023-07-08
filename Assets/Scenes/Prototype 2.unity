@@ -460,7 +460,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 534669902}
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 25, z: 7.5}
+  m_LocalPosition: {x: 0, y: 35, z: 7.5}
   m_LocalScale: {x: 1, y: 20, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -534,7 +534,6 @@ MonoBehaviour:
   - {fileID: 7750814825327546178, guid: b9614af8d25b1460686bc7a88cf80228, type: 3}
   - {fileID: 5198742655557286338, guid: 4a164e517172541e6b58053b08804b3f, type: 3}
   - {fileID: 5042418679741513293, guid: 3645f90b21c1a47ffb5233efb07e610c, type: 3}
-  animalIndex: 0
 --- !u!4 &1300410076
 Transform:
   m_ObjectHideFlags: 0
